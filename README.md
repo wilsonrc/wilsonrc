@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Android , Kotlin , Java.**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Business, AI, Flutter, Dart**
 
 - 📝 I regulary write articles on [dev.to](https://dev.to/wilsonrc)
 
